@@ -1,2 +1,15 @@
-# dup-hunt
-Find duplicate files and the biggest space hogs on Mac.
+# dup-hunt（仮名）
+
+**重複・大物ファイル発見**
+
+## 課題（Mac標準の不便）
+ディスク容量を何が食っているか、標準機能では見えない。
+
+## 計画している機能
+- ハッシュベースの重複検出
+- サイズ順の大物ファイル一覧
+- 削除前プレビュー（ゴミ箱経由）
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
